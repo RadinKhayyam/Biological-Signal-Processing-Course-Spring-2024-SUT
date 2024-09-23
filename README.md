@@ -1,4 +1,4 @@
-# 🧠 Biological Signal Processing
+# 📈 Biological Signal Processing
 
 **🏛️ University:** Sharif University of Technology  
 **🏢 Department:** Electrical Engineering  
